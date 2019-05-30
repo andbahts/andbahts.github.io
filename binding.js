@@ -1,0 +1,11 @@
+let sixteen = 16;
+console.log(sixteen * sixteen);
+let mood = "light";
+console.log(mood);
+mood = "dark";
+console.log(mood);
+let elenaDebt = 8000;
+elenaDebt = elenaDebt - 500;
+console.log(elenaDebt);
+let one = 1, two = 2;
+console.log(one + two);
