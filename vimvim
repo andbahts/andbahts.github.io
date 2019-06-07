@@ -1,13 +1,29 @@
-di" - delete in "
-mekkaldasojf 
-e lsdj i lds 
- sdl jid slk j
- lsj l
- alsj 
-
-aaa
-aaa
-aaaj
+hello world
+hello world
 
 
-al;sekjf
+
+
+let x = "some sentence";
+let x = "some sentence";
+let x = "some sentence";
+fd перемещает курсор на ближайшую букву d
+td тоже самое, но перед символом
+* переход к такому же слову
+{ след и пред пустая строка }    
+{
+% перемещает курсор на след парную скобку
+}
+H L M верх страницы, низ и середина
+^d ^u перемотка га полэкрана вниз вверх
+gg G начало и конец документа
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare sapien tempus lobortis vulputate. Maecenas sit amet leo sed sapien tincidunt iaculis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent ullamcorper, leo eu tempor imperdiet, dui justo iaculis mauris, a porttitor lacus libero at magna. Ut mollis commodo dui non convallis. Duis vitae odio nec urna feugiat laoreet sit amet ut massa. Quisque gravida porta sollicitudin. Phasellus malesuada ultrices convallis. Etiam egestas nulla tortor, ac fringilla felis finibus varius. Etiam lobortis, nisl non commodo convallis, purus lacus porttitor sem, ac iaculis nibh lectus eget libero.
+
+    Nullam pulvinar imperdiet enim non ultrices. Fusce varius odio quis nibh congue, non ultrices ante ornare. Maecenas non eleifend nisi. Nam vulputate nisl consequat justo hendrerit condimentum. Donec iaculis, ipsum at egestas viverra, diam mauris luctus magna, sed volutpat nulla dui nec dui. Sed ultricies tempor orci tristique lacinia. In id tortor magna. Maecenas elit nisl, elementum sed porta nec, bibendum vitae elit. Morbi nec rhoncus felis.
+
+Sed bibendum est ut lacus tincidunt, vitae congue massa maximus. Donec sit amet eros eu tortor pulvinar dignissim. Etiam eu maximus nunc, in convallis leo. Donec eu eros auctor, vestibulum metus vel, pulvinar odio. Fusce pharetra odio eget leo faucibus tempor. Nunc eu urna ac nulla dapibus lobortis convallis ut nisl. Morbi eget ultricies eros. Suspendisse a vulputate enim.
+
+Nulla volutpat interdum lorem, ut venenatis libero ornare vel. Nam ac placerat nunc, finibus semper neque. Curabitur in imperdiet nulla, ut accumsan sapien. Curabitur nec viverra lacus, vel lacinia purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum quam sed accumsan cursus. Sed tempor urna justo, quis pharetra nunc bibendum a. Proin rutrum diam id tincidunt auctor. Mauris justo lectus, ornare in cursus et, viverra in nibh. Quisque ligula risus, elementum vel sem pellentesque, elementum interdum lacus. Etiam vulputate mauris non mattis rutrum. Nullam cursus fermentum velit, porttitor pretium erat aliquet vitae.
+
+Nullam quis lorem nisi. Nulla vitae metus convallis, tincidunt ipsum in, vulputate metus. Pellentesque porttitor nunc egestas nunc mollis molestie. Donec eu elit vel lacus pharetra malesuada vitae a dui. Ut malesuada libero ut mauris sagittis, vitae pulvinar mi feugiat. Mauris ac laoreet turpis. Pellentesque eget porta magna. In euismod nibh vitae lectus vehicula finibus. Vivamus sollicitudin euismod nunc, at ultrices elit dictum quis. Proin vitae sapien turpis. Suspendisse volutpat tortor id nibh rutrum, id aliquam felis lacinia. Aenean aliquam nulla vel velit interdum, a suscipit lorem rhoncus. 
